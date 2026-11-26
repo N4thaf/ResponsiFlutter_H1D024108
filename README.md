@@ -1,7 +1,5 @@
 # Responsi Pemrograman Mobile
 
-**IDENTITAS**
-
 Nama : Althaf Nadhif Saputra
 
 NIM : H1D024108
